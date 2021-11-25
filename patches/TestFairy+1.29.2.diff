@@ -1,0 +1,12 @@
+diff --git a/cocoapods-patch-20211108-50631-2i5wvk/TestFairy/TestFairy.h b/Pods/TestFairy/TestFairy.h
+index 5ef4a77..eae7b8d 100644
+--- a/cocoapods-patch-20211108-50631-2i5wvk/TestFairy/TestFairy.h
++++ b/Pods/TestFairy/TestFairy.h
+@@ -5,6 +5,7 @@
+ 
+ @protocol TestFairySessionStateDelegate <NSObject>
+ @optional
++-(void)testChange;
+ /**
+  * Callback when a session has successfully started on TestFairy.
+  */

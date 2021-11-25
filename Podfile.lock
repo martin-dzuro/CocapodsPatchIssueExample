@@ -1,0 +1,16 @@
+PODS:
+  - TestFairy (1.29.2)
+
+DEPENDENCIES:
+  - TestFairy
+
+SPEC REPOS:
+  trunk:
+    - TestFairy
+
+SPEC CHECKSUMS:
+  TestFairy: d3310cb5f17446302de0d1c8c1ac1e6518f5334a
+
+PODFILE CHECKSUM: 5a5322acd5f9af109f5a98a340adeb49c8f0b4ec
+
+COCOAPODS: 1.11.2
